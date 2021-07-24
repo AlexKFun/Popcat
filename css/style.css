@@ -1,0 +1,21 @@
+.popcat {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../images/popcat1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.popcat_click {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../images/popcat2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+}
+
